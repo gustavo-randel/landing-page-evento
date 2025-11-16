@@ -302,7 +302,7 @@ form {
 }
 
 #contactForm input, textarea {
-    min-width: 10rem;
+    min-width: 10brem;
     width: 100%;
     padding: .8rem;
     border: 1px solid #4e4e4e7c;
