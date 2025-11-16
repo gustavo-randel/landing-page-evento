@@ -1,2 +1,2 @@
-# landing-page-evento
+# Landing page - Evento Tech
 
