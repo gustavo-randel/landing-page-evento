@@ -302,7 +302,7 @@ form {
 }
 
 #contactForm input, textarea {
-    min-width: 12rem;
+    min-width: 10rem;
     width: 100%;
     padding: .8rem;
     border: 1px solid #4e4e4e7c;
@@ -404,10 +404,6 @@ footer {
         color: #444;
         font-size: .6rem;
         line-height: 1.4;
-    }
-
-    #form-container div {
-        font-size: scale(.3);   
     }
 
     #form-container div h2{
